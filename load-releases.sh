@@ -21,7 +21,7 @@ file_my_releases="my_releases.txt"
 file_tmp="my_releases.tmp"
 
 # metal-archives-pages
-pge_str_start="http://www.metal-archives.com/release/ajax-upcoming/json/1?sEcho=1&iColumns=4&sColumns=&iDisplayStart="
+pge_str_start="https://www.metal-archives.com/release/ajax-upcoming/json/1?sEcho=1&iColumns=4&sColumns=&iDisplayStart="
 pge_str_end="&iDisp$"
 # agent-name for curl
 agent="script_github.com/thgoso/metal-archives-upcoming"
